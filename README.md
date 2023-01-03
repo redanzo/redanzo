@@ -2,8 +2,6 @@
 
 I am a current undergraduate CS student.<br>I am still learning as my passion grows in computer science, but in the mean time please check out what I have done so far.
 
-
-## 🌐 Socials 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshan-bharathi-024924214)
 
 # 💻 My Skills/Knowledge 💻:
