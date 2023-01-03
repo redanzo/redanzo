@@ -32,6 +32,6 @@ Other(Software/Hardware)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Redanzo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--- ![](https://github-readme-stats.vercel.app/api?username=Redanzo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Redanzo&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redanzo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&langs_count=6)
