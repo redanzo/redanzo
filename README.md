@@ -3,7 +3,7 @@ My name is Rishikeshan Bharathi, also go by Rishi. I am a current undergraduate 
 
 
 ## 🌐 Socials 🌐:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshan-bharathi-024924214) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshan-bharathi-024924214) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](Redanzo#7959)
 
 # 💻 My Skill/Knowledge 💻:
 Languages
