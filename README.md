@@ -1,8 +1,4 @@
-# 
-.----. .-. .----..-. .-..-.   .----. .-. .-.  .--.  .----.   .--.  .---. .-. .-..-.
-| {}  }| |{ {__  | {_} || |   | {}  }| {_} | / {} \ | {}  } / {} \{_   _}| {_} || |
-| .-. \| |.-._} }| { } || |   | {}  }| { } |/  /\  \| .-. \/  /\  \ | |  | { } || |
-`-' `-'`-'`----' `-' `-'`-'   `----' `-' `-'`-'  `-'`-' `-'`-'  `-' `-'  `-' `-'`-'
+# 𝓡𝓲𝓼𝓱𝓲 𝓑𝓱𝓪𝓻𝓪𝓽𝓱𝓲
 
 I am a current undergraduate CS student.<br>I am still learning as my passion grows in computer science, but in the mean time please check out what I have done so far.
 
