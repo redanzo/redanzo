@@ -1,5 +1,10 @@
-# 👋 Welcome 👋
-My name is Rishikeshan Bharathi, also go by Rishi. I am a current undergraduate CS student.<br>I am still learning as my passion grows in computer science, but in the mean time please check out what I have done so far.
+# 
+.----. .-. .----..-. .-..-.   .----. .-. .-.  .--.  .----.   .--.  .---. .-. .-..-.
+| {}  }| |{ {__  | {_} || |   | {}  }| {_} | / {} \ | {}  } / {} \{_   _}| {_} || |
+| .-. \| |.-._} }| { } || |   | {}  }| { } |/  /\  \| .-. \/  /\  \ | |  | { } || |
+`-' `-'`-'`----' `-' `-'`-'   `----' `-' `-'`-'  `-'`-' `-'`-'  `-' `-'  `-' `-'`-'
+
+I am a current undergraduate CS student.<br>I am still learning as my passion grows in computer science, but in the mean time please check out what I have done so far.
 
 
 ## 🌐 Socials 🌐:
