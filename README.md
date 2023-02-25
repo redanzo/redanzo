@@ -32,4 +32,5 @@ Other(Software/Hardware)
 # 📊 GitHub Stats 📊:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Redanzo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Redanzo&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=redanzo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=redanzo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&layout=compact) -->
+![](https://raw.githubusercontent.com/redanzo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
