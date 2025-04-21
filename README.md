@@ -2,6 +2,8 @@
 
 I am a current undergraduate CS student.<br>I am still learning as my passion grows in computer science, but in the mean time please check out what I have done so far.
 
+Check out my Website - [rishibharathi.com](https://rishibharathi.com/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishibharthi/)
 
 # 💻 My Skills/Knowledge 💻:
